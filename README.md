@@ -4,7 +4,7 @@
 
 1. Ensure a recent stable version of docker and docker-compose are installed on your machine.
 
-2. Clone the API to your local machine
+2. Clone the repository to your local machine
 ```
 git clone https://github.com/lukemichaelpearce/tea-maker-api.git
 ```
