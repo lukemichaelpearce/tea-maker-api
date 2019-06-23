@@ -1,0 +1,4 @@
+index:
+    path: /team
+    methods: GET
+    controller: App\Controller\TeaRoundAPIController::index
