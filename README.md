@@ -22,3 +22,11 @@ docker-compose exec php bin/console doctrine:migrations:migrate
 ```
 
 5. You should now be able to visit http://localhost:8083 (or the port you have set in docker-compose.yml) and see Symfony's welcome page.
+
+6. You can also access an adminer instance on http://localhost:8084 (or the port you have set in docker-compose.yml).
+```
+Server: mysql
+User: root
+Password: root
+Datbase: teamaker
+```
