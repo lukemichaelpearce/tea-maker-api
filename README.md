@@ -28,5 +28,5 @@ docker-compose exec php bin/console doctrine:migrations:migrate
 Server: mysql
 User: root
 Password: root
-Datbase: teamaker
+Database: teamaker
 ```
